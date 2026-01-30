@@ -1,0 +1,65 @@
+# Node.js Backend
+**/node_modules/
+**/npm-debug.log
+**/yarn-error.log
+**/package-lock.json
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Flutter Frontend
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub-cache/
+**/.pub/
+**/pubspec.lock
+
+# IDE
+**/.idea/
+**/.vscode/
+*.iml
+*.ipr
+*.iws
+**/.project
+**/.classpath
+**/.settings/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+**/*.log
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Coverage
+coverage/
+*.lcov
+
+# Build outputs
+dist/
+*.war
+*.ear
+*.jar
+*.class
